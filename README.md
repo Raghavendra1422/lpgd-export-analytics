@@ -5,7 +5,7 @@ business based in Nizamabad, Telangana, exporting turmeric, chilli, chilli
 powder, onions, soya, and cotton to buyers in the UAE, USA, UK, Germany, and
 Australia.
 
-**Live dashboard:** _add your Vercel URL here after deployment_
+**Live dashboard:** https://lpgd-export-analytics.vercel.app
 **Author:** Raghavendra ([GitHub](https://github.com/Raghavendra1422))
 
 > Note: this project uses realistic **synthetic data** (Feb 2024 – Aug 2026,
